@@ -5,4 +5,4 @@ BOT_TOKEN = "5020504303:AAElG7ieBhOGHDJOgO3Ky0qq8ssTRAeWDTo"
 PROJECT_NAME = "GitGram"
 
 # If you forked the Repository, grab your repo's link and paste it below!
-GIT_REPO_URL = "https://github.com/AnonymousBoy1025/GitGram"
+GIT_REPO_URL = "https://github.com/MEIZNOOBCODER/GITGRAMROBO"
