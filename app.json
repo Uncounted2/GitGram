@@ -3,7 +3,7 @@
   "description": "A Telegram Bot which will notify you about events of your GitHub Repo.",
   "logo": "https://telegra.ph/file/04955bd5888a89dced11a.jpg",
   "keywords": ["gitgram", "github", "events"],
-  "repository": "https://github.com/AnonymousBoy1025/GitGram",
+  "repository": "https://github.com/MEIZNOOBCODER/GITGRAMROBO",
   "stack": "container",
   "env": {
     "ENV": {
@@ -28,7 +28,7 @@
     "GIT_REPO_URL": {
       "description": "Leave this as it is if you want your app to run.",
       "required": true,
-      "value": "https://github.com/AnonymousBoy1025/GitGram"
+      "value": "https://github.com/MEIZNOOBCODER/GITGRAMROBO"
     }
   }
 }
