@@ -1,6 +1,6 @@
 # ɢɪᴛɢʀᴀᴍ
 
-<p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/04955bd5888a89dced11a.jpg"></a></p>
+<p align="center"><a href="https://t.me/S_UNSTOPPABLE"><img src="https://te.legra.ph/file/663d37b0f41f7a4eeb387.jpg"></a></p>
 
  A Telegram Bot to notify you about your Github Repository Events
 
