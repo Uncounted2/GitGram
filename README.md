@@ -8,7 +8,7 @@
 
 The easiest way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonymousBoy1025/GitGram"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MEIZNOOBCODER/GITGRAMROBO"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 <h4> Fill all the required variables on heroku, after that follow the steps - </h4>
 
@@ -24,7 +24,7 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
 
 ## ᴇxᴀᴍᴩʟᴇ ᴏғ ᴀɴ ᴡᴇʙʜᴏᴏᴋ 👇🏻:
 
-<p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/c694e61f7faa468ee136d.jpg"></a></p>
+<p align="center"><a href="https://t.me/S_UNSTOPPABLE"><img src="https://telegra.ph/file/c694e61f7faa468ee136d.jpg"></a></p>
 
 # ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴩs:
 - Install all requirements, `pip3 install -r requirements.txt`
@@ -40,20 +40,20 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
 
 ## ᴛʀʏ ᴏɴ ɢɪᴛᴩᴏᴅ:
 1. [Login to Gitpod](https://gitpod.io/login).
-2. [Open this in Gitpod](https://gitpod.io/#github.com/AnonymousBoy1025/GitGram).
+2. [Open this in Gitpod](https://github.com/MEIZNOOBCODER/GITGRAMROBO).
 3. After workspace build, dependencies will be installed.
 4. Follow step 2 and 3 in Setup section.
 
 
 ## ᴄʀᴇᴅɪᴛs 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025) for [Nothing](https://github.com/AnonymousR1025/GitGram)
+- [NOOBCODER](https://github.com/MEIZNOOBCODER) for [Nothing](https://github.com/MEIZNOOBCODER/GITGRAMROBO)
 - [Pokurt](https://github.com/pokurt) for [GitGram](https://github.com/pokurt/GitGram)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## sᴜᴩᴩᴏʀᴛ 🎑
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/anonymous_was_bot"><img src="https://img.shields.io/badge/%20Anonymous-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/S_UNSTOPPABLE"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Shaurya_here"><img src="https://img.shields.io/badge/%20NOOBCODER-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
